@@ -10,7 +10,7 @@ let nome = "João"; // texto - String
 nome = "Maria";
 
 var verdade = true; // booleano (verdadeiro/ falso)
-var ano = 1990; // númerico
+var ano = 1990; // numérico
 
 /** obs: não é necessária a definição do tipo de dado a ser armazenado em uma variável; */
   
